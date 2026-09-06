@@ -11,11 +11,9 @@
 
 <br/>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=AndikaWiranata&icon=0&color=0" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=AndikaWiranata&color=blue" alt="Profile Views">
 </a>
-
 </div>
-
 ---
 
 ## 💫 About Me
