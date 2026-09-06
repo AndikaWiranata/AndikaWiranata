@@ -19,10 +19,10 @@
 ---
 
 ## 💫 About Me
-Hi! I'm Andika, an Information Systems student. I use GitHub as a personal sandbox to experiment, learn in public, and keep track of my progress across various tech fields. Rather than claiming expertise, I'm currently focused on building solid fundamentals and exploring how different technologies work behind the scenes.
+Hi! I'm Andika, an Information Systems student and a tech enthusiast.
 
-- 🎯 **Current Focus:** Learning how to extract meaningful insights from data, exploring AI tools to improve productivity, and understanding home network configurations.
-- 🌐 **Tech Interests:** Software development, data storytelling, and basic network administration.
+- 🎯 **Current Focus:** Learning how to extract meaningful insights from data, exploring AI tools to improve productivity.
+- 🌐 **Tech Interests:** Software development, data, and AI/ML.
 - 📸 **Beyond Tech:** When I'm away from the keyboard, I enjoy visual storytelling, experimenting with my camera gear, and practicing photo and video editing.
 
 ---
