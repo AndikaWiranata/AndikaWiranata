@@ -1,176 +1,89 @@
-Hi, I'm Andika
-
 <div align="center">
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=andikawiranata&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159260311%3Fv%3D4" alt="Andika hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=andikawiranata&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159260311%3Fv%3D4" alt="andikawiranata hero visual" />
 </p>
 
-<h2>Tech Enthusiast · Information Systems Student</h2>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/wirandika._) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andikawiranata) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@wira6_) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andikawir95@gmail.com) 
 
-<p>
-  Exploring technology · Building things · Learning in public
-</p>
+<br/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://komarev.com/ghpvc/?username=AndikaWiranata&icon=0&color=0" alt="Profile Views">
+</a>
 
 </div>
 
-About Me
+---
 
-Hi! I'm Andika, an Information Systems student and tech enthusiast interested in software development and modern technologies.
+## 💫 About Me
+Hi! I'm Andika, an Information Systems student. I use GitHub as a personal sandbox to experiment, learn in public, and keep track of my progress across various tech fields. Rather than claiming expertise, I'm currently focused on building solid fundamentals and exploring how different technologies work behind the scenes.
 
-I enjoy exploring how technology works, discovering new tools, experimenting with different technologies, and turning ideas into useful projects.
+- 🎯 **Current Focus:** Learning how to extract meaningful insights from data, exploring AI tools to improve productivity, and understanding home network configurations.
+- 🌐 **Tech Interests:** Software development, data storytelling, and basic network administration.
+- 📸 **Beyond Tech:** When I'm away from the keyboard, I enjoy visual storytelling, experimenting with my camera gear, and practicing photo and video editing.
 
-My interests span across software development, web technologies, data, AI, developer tools, and emerging technologies. I believe that the best way to learn technology is by building, experimenting, and continuously improving.
+---
 
-Building useful things and learning in public.
+## 💻 Tech Stack & Tools
 
-What I'm Exploring
+**Languages & Core**  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
-Software Development
+**Data & AI**  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
-Web Development
+**Backend & Database**  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 
-Data & AI
+**Creative & Visuals**  
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-Developer Tools
+**Terminal & Tools**  
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-Backend & Cloud Technologies
+---
 
-Emerging Technologies
-
-Currently Working On
-
-Learning Java and software development
-
-Improving my JavaScript and web development skills
-
-Exploring Python for programming and data-related projects
-
-Building personal projects and experimenting with new technologies
-
-Improving my development workflow with Git & GitHub
-
-Selected Work
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=andikawiranata&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159260311%3Fv%3D4" alt="Andika highlights" />
-</p>
-
+  <img src="https://github-readme-stats.shion.dev/api?username=AndikaWiranata&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AndikaWiranata&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AndikaWiranata&theme=aura&hide_border=false" alt="GitHub Streak" />
 </div>
 
-Projects
-
-Project
-
-Description
-
-Technology
-
-Finance Tracker
-
-Personal finance tracking application
-
-TypeScript
-
-Go Class
-
-Web project for learning and experimentation
-
-JavaScript
-
-Wira Berbahasa
-
-Web project focused on language learning
-
-HTML · CSS
-
-Profile README
-
-Personal GitHub profile and technology portfolio
-
-Markdown
-
-Details Worth Noticing
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=andikawiranata&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159260311%3Fv%3D4" alt="Andika social visual" />
-</p>
-
-I'm building my skills through hands-on projects, experimenting with different technologies, and documenting the journey along the way.
-
-Tech Stack
-
-Languages
-
-
-
-
-
-
-
-Web Development
-
-
-
-
-
-
-
-
-Tools & Platforms
-
-
-
-
-
-
-GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=AndikaWiranata&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=AndikaWiranata&theme=aura&hide_border=false" />
-
-<br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AndikaWiranata&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-</p>
-
-GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AndikaWiranata&theme=aura&no-frame=false&no-bg=true&margin-w=4" />
-
-</p>
-
-Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/AndikaWiranata">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/andikawiranata">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/wirandika._">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:andikawir95@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+<br/>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndikaWiranata&theme=aura&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-Learning, building, and improving one project at a time.
+---
 
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
