@@ -3,12 +3,6 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=andikawiranata&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159260311%3Fv%3D4" alt="andikawiranata hero visual" />
 </p>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/wirandika._) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andikawiranata) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@wira6_) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andikawir95@gmail.com) 
-
 <br/>
 <a href="https://visitcount.itsvg.in">
   <img src="https://komarev.com/ghpvc/?username=AndikaWiranata&color=blue" alt="Profile Views">
@@ -79,3 +73,18 @@ Hi! I'm Andika, an Information Systems student and a tech enthusiast.
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
+
+<p align="center">
+  <a href="https://instagram.com/wirandika._">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/andikawiranata">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://tiktok.com/@wira6_">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="mailto:andikawir95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
