@@ -74,7 +74,6 @@ Hi! I'm Andika, an Information Systems student and a tech enthusiast.
 </div>
 
 <br/>
----
 
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
