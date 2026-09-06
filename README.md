@@ -1,24 +1,176 @@
-# 💫 About Me:
+Hi, I'm Andika
+
+<div align="center">
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=andikawiranata&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159260311%3Fv%3D4" alt="Andika hero visual" />
+</p>
+
+<h2>Tech Enthusiast · Information Systems Student</h2>
+
+<p>
+  Exploring technology · Building things · Learning in public
+</p>
+
+</div>
+
+About Me
+
 Hi! I'm Andika, an Information Systems student and tech enthusiast interested in software development and modern technologies.
 
+I enjoy exploring how technology works, discovering new tools, experimenting with different technologies, and turning ideas into useful projects.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wirandika._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andikawiranata) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wira6_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andikawir95@gmail.com) 
+My interests span across software development, web technologies, data, AI, developer tools, and emerging technologies. I believe that the best way to learn technology is by building, experimenting, and continuously improving.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AndikaWiranata&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AndikaWiranata&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AndikaWiranata&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Building useful things and learning in public.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AndikaWiranata&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+What I'm Exploring
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Software Development
 
----
-[![](https://komarev.com/ghpvc/?username=AndikaWiranata&icon=0&color=0)](https://visitcount.itsvg.in)
+Web Development
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Data & AI
+
+Developer Tools
+
+Backend & Cloud Technologies
+
+Emerging Technologies
+
+Currently Working On
+
+Learning Java and software development
+
+Improving my JavaScript and web development skills
+
+Exploring Python for programming and data-related projects
+
+Building personal projects and experimenting with new technologies
+
+Improving my development workflow with Git & GitHub
+
+Selected Work
+
+<div align="center">
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=andikawiranata&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159260311%3Fv%3D4" alt="Andika highlights" />
+</p>
+
+</div>
+
+Projects
+
+Project
+
+Description
+
+Technology
+
+Finance Tracker
+
+Personal finance tracking application
+
+TypeScript
+
+Go Class
+
+Web project for learning and experimentation
+
+JavaScript
+
+Wira Berbahasa
+
+Web project focused on language learning
+
+HTML · CSS
+
+Profile README
+
+Personal GitHub profile and technology portfolio
+
+Markdown
+
+Details Worth Noticing
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=andikawiranata&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159260311%3Fv%3D4" alt="Andika social visual" />
+</p>
+
+I'm building my skills through hands-on projects, experimenting with different technologies, and documenting the journey along the way.
+
+Tech Stack
+
+Languages
+
+
+
+
+
+
+
+Web Development
+
+
+
+
+
+
+
+
+Tools & Platforms
+
+
+
+
+
+
+GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=AndikaWiranata&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=AndikaWiranata&theme=aura&hide_border=false" />
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AndikaWiranata&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</p>
+
+GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AndikaWiranata&theme=aura&no-frame=false&no-bg=true&margin-w=4" />
+
+</p>
+
+Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/AndikaWiranata">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/andikawiranata">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/wirandika._">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:andikawir95@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<div align="center">
+
+Learning, building, and improving one project at a time.
+
+</div>
