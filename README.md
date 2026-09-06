@@ -73,7 +73,7 @@ Hi! I'm Andika, an Information Systems student and a tech enthusiast.
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
-
+<br/>
 <p align="center">
   <a href="https://instagram.com/wirandika._">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
@@ -87,4 +87,5 @@ Hi! I'm Andika, an Information Systems student and a tech enthusiast.
   <a href="mailto:andikawir95@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</p>
 </p>
